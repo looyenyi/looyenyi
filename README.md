@@ -1,7 +1,7 @@
 - Hi, I’m @looyenyi
-- I’m interested in animal behaviour and conservation
-- I’m currently learning bioacoustics in R
-- I’m looking to collaborate on sound analysis projects
+- I’m interested in animal behaviour and conservation, especially in birds.
+- I’m currently learning bioacoustics in R and have experience in sound analysis using Raven and warbleR.
+- I’m looking to collaborate on bioacoustic projects in tropical regions!
 - How to reach me: looyenyi@gmail.com
 
 <!---
